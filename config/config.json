@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "new-brief-web-part-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/newBriefWebPart/NewBriefWebPartWebPart.js",
+          "manifest": "./src/webparts/newBriefWebPart/NewBriefWebPartWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "NewBriefWebPartWebPartStrings": "lib/webparts/newBriefWebPart/loc/{locale}.js"
+  }
+}
