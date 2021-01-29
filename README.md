@@ -2,7 +2,7 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+Testing and learning how to build web parts in SPFX/ React/Typescript for our sharepoint app.
 
 [picture of the solution in action, if possible]
 
